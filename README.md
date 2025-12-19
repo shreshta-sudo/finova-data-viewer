@@ -1,11 +1,7 @@
-# Finova Data Viewer – Task 1
+# Fintech-Task 1
 
 ## Introduction
-This project is a simple user interface for a FinTech Data Viewer called **Finova Data Viewer**.
-The purpose of this task is to understand basic HTML, CSS, Git, and web architecture concepts.
-
-
----
+This project is a simple user interface for a FinTech Data Viewer called **Finova Data Viewer**
 
 ## 1. Client–Server Model
 
@@ -36,8 +32,8 @@ The frontend is the part of the application the user sees and interacts with.
 It is built using HTML and CSS in this project.
 
 ### Backend
-The backend handles application logic, data processing, and communication with databases.
-It is usually built using programming languages like Python, Java, or JavaScript.
+The backend handles application logic, data processing etc.
+It is usually built using programming languages like Python, Java.
 
 ### Database
 A database stores application data such as stock prices, crypto values, and user information.
@@ -53,27 +49,20 @@ They allow the frontend to request and receive data from the backend.
 4. Backend sends data back to the frontend.
 5. Frontend displays the data to the user.
 
----
 
-## 3. Architecture Diagram
-
-The diagram below shows the basic flow of a full-stack application:
-
-Client (Browser) → Server (Backend) → Database  
-Database → Server → Client
-
----
-
-## 4. Screenshots
+## 3. Screenshots
 
 ### UI Screenshot
-(Add screenshot of the Finova Data Viewer UI here)
+![UI Screenshot](ui-screenshot.png)
 
-### Git Commands Screenshots
-(Add screenshots of git add, git commit, and git push here)
+### Git Commands Screenshot
+![Git Commands](git-commands.png)
 
----
+### Architecture Diagram
+![Architecture Diagram](architecture-diagram.png)
 
-## Conclusion
+## 4.Conclusion
 This task helped in understanding the basics of web development, Git version control,
 and how full-stack applications are structured conceptually.
+
+_last updated for Task 1 submission_
